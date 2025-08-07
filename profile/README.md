@@ -4,7 +4,7 @@
     <b>Your city's commerce, connected to its people.</b>
   </p>
   <p>
-    <a href="https://github.com/rede-comum/manifesto">Leia em Português 🇧🇷</a>
+    <a href="https://github.com/rede-comum/manifesto/LEAIME.md">Leia em Português 🇧🇷</a>
   </p>
 </div>
 
