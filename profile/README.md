@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Rede Comum</h1>
   <p>
-    <b>Your city's commerce, connected to its people.</b>
+    <b>O comércio da sua cidade, conectado às pessoas.</b>
   </p>
   <p>
     <a href="https://github.com/rede-comum/manifesto/LEIAME.md">Leia em Português 🇧🇷</a>
@@ -10,44 +10,44 @@
 
 ---
 
-**Rede Comum** is an open-source protocol and a set of tools designed to create a federated network of local commerce. Our mission is to empower small and medium-sized businesses to thrive in the digital age without relying on large, centralized platforms.
+**Rede Comum** é um protocolo de código aberto e um conjunto de ferramentas projetadas para criar uma rede federada de comércio local. Nossa missão é fortalecer pequenos e médios negócios para prosperarem na era digital sem depender de grandes plataformas centralizadas.
 
-We believe in a future where local economies are strengthened by technology, not replaced by it.
+Acreditamos em um futuro onde as economias locais sejam fortalecidas pela tecnologia, e não substituídas por ela.
 
-## 🚀 Get Involved
+## 🚀 Envolva-se
 
-Whether you are a developer, a shop owner, or just a community enthusiast, there are many ways to help!
+Seja você um desenvolvedor, dono de loja ou apenas um entusiasta da comunidade, há muitas maneiras de ajudar!
 
-| **Get Started** | **Contribute** | **Community** |
+| **Comece Agora** | **Contribua** | **Comunidade** |
 | --------------------------------------------------- | ---------------------------------------------------- | ------------------------------------------------ |
-| 📖 **[Read our Manifesto]** | 💻 **[Check our Code Repositories]** | 💬 **[Join us on Discord]** |
-| 💡 **[Understand the Architecture]** | 🛠️ **[Find a Good First Issue]** | 🐦 **[Follow us on Twitter/X]** |
+| 📖 **[Leia nosso Manifesto]** | 💻 **[Veja nossos Repositórios de Código]** | 💬 **[Junte-se a nós no Discord]** |
+| 💡 **[Entenda a Arquitetura]** | 🛠️ **[Encontre uma Boa Primeira Issue]** | 🐦 **[Siga-nos no Twitter/X]** |
 
 <br>
 
-## ✨ Our Core Repositories
+## ✨ Nossos Repositórios Principais
 
-This organization is a home for cái ecossistema da Rede Comum. Here are some of our key projects:
+Esta organização é o lar do ecossistema da Rede Comum. Aqui estão alguns dos nossos principais projetos:
 
-| Repository                               | Description                                                                 |
-| ---------------------------------------- | --------------------------------------------------------------------------- |
-| 📜 **[manifesto]** | The core principles, vision, and governance of the Rede Comum project.      |
-| ⚙️ **[locus-node]** _(Coming Soon)_       | The federated server software that powers each community node.              |
-| 📱 **[pwa-client]** _(Coming Soon)_      | The Progressive Web App that allows customers to browse and buy locally.    |
-| 🤝 **[mid-connectors]** _(Coming Soon)_  | A collection of tools to connect local shop systems to the network.         |
+| Repositório                              | Descrição                                                                 |
+| ---------------------------------------- | ------------------------------------------------------------------------- |
+| 📜 **[manifesto]** | Os princípios centrais, a visão e a governança do projeto Rede Comum.      |
+| ⚙️ **[locus-node]** _(Em Breve)_          | O software de servidor federado que impulsiona cada nó da comunidade.      |
+| 📱 **[pwa-client]** _(Em Breve)_          | O Progressive Web App que permite aos clientes navegar e comprar localmente.|
+| 🤝 **[mid-connectors]** _(Em Breve)_      | Uma coleção de ferramentas para conectar sistemas de lojas locais à rede.   |
 
 <br>
 
-> This project is, and will always be, free and open source, licensed under the **[AGPL-3.0 license]**.
+> Este projeto é, e sempre será, livre e de código aberto, licenciado sob a **[licença AGPL-3.0]**.
 
-[Read our Manifesto]: https://github.com/rede-comum/manifesto
-[Understand the Architecture]: https://github.com/rede-comum/manifesto/blob/main/docs/arquitetura.md
-[Check our Code Repositories]: https://github.com/orgs/rede-comum/repositories
-[Find a Good First Issue]: https://github.com/search?q=org%3Arede-comum+is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22
-[Join us on Discord]: #
-[Follow us on Twitter/X]: #
-[manifesto]: https://github.com/rede-comum/manifesto
-[locus-node]: #
-[pwa-client]: #
-[mid-connectors]: #
-[AGPL-3.0 license]: https://github.com/rede-comum/manifesto/blob/main/LICENSE
+[Leia nosso Manifesto]: https://github.com/rede-comum/manifesto  
+[Entenda a Arquitetura]: https://github.com/rede-comum/manifesto/blob/main/docs/arquitetura.md  
+[Veja nossos Repositórios de Código]: https://github.com/orgs/rede-comum/repositories  
+[Encontre uma Boa Primeira Issue]: https://github.com/search?q=org%3Arede-comum+is%3Aopen+is%3Aissue+label%3A%22good+first+issue%22  
+[Junte-se a nós no Discord]: #  
+[Siga-nos no Twitter/X]: #  
+[manifesto]: https://github.com/rede-comum/manifesto  
+[locus-node]: #  
+[pwa-client]: #  
+[mid-connectors]: #  
+[licença AGPL-3.0]: https://github.com/rede-comum/manifesto/blob/main/LICENSE  
